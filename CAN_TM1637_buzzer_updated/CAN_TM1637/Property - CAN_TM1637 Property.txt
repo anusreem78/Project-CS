@@ -1,0 +1,16 @@
+﻿CS+ V8.10.00  [06 Jun 2023] [Property - CAN_TM1637 Property]
+22 July 2024 16:50:42
+Project Name :CAN_TM1637
+Tool : R5F10BAG, CC-RL, RL78 E1(Serial), Pin Configurator, Program Analyzer, Code Generator
+------------------------------------------------------------------------------
+ Category  Name                                                           Value                                      Active help
+[Project]
+ File                                                                                                                
+           File name                                                      CAN_TM1637.mtpj                            This is the name of the file to which the information of this main project is to be saved.
+           Absolute path                                                  D:\CS+ PROJECT\CAN_TM1637\CAN_TM1637.mtpj  This is the absolute path of the file that holds the information of this project.
+           Type of storage and sharing environment-dependent information  Save for each user                         Selects the type of storage and sharing of environment-dependent information storage file (*.mtud).Refer to the Project Operatioin of the help for the details.
+ License                                                                                                             
+           Use standard edition for floating license                      Yes                                        Selects whether to use floating license for standard edition only.If you don't want to use floating license besides standard edition, select "Yes".
+           Standard edition for floating license is currently in use      Yes                                        Displays standard edition for floating license currently in use.
+ Notes                                                                                                               
+           Memo                                                           Memo[0]                                    This is the memo added to this main project.
